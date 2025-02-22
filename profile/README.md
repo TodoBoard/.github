@@ -1,5 +1,7 @@
 # TodoBoard
 
+--> Live Preview: https://todoboard.net
+
 TodoBoard is a comprehensive solution for task and project management that combines a robust backend with a modern, responsive frontend. By integrating secure authentication, two-factor authentication (2FA), and an intuitive UI/UX, TodoBoard enables efficient team collaboration and streamlined project tracking.
 
 ![TodoBoard Overview](https://i.imgur.com/0q4ttfY.png)
